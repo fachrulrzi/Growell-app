@@ -37,7 +37,6 @@ Project ini dibangun menggunakan:
 
 - **Flutter**
 - **Dart**
-- **Firebase** *(opsional, sesuaikan jika digunakan)*
 
 ## 📂 Struktur Project
 
