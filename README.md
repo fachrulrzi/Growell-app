@@ -1,16 +1,52 @@
-# growell
+# Growell
 
-A new Flutter project.
+Growell adalah aplikasi mobile yang dikembangkan untuk membantu pemantauan dan pencegahan stunting pada anak melalui edukasi, monitoring pertumbuhan, serta rekomendasi kesehatan berbasis data pertumbuhan anak.
 
-## Getting Started
+## 📱 Tentang Aplikasi
 
-This project is a starting point for a Flutter application.
+Stunting merupakan salah satu permasalahan kesehatan yang memengaruhi pertumbuhan dan perkembangan anak akibat kekurangan gizi kronis. Growell hadir sebagai solusi digital untuk membantu orang tua dan tenaga kesehatan dalam memantau kondisi pertumbuhan anak secara lebih mudah dan terstruktur.
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini dirancang untuk membantu:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📊 **Monitoring Pertumbuhan Anak**  
+  Memantau tinggi badan, berat badan, dan perkembangan anak secara berkala.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🩺 **Deteksi Risiko Stunting**  
+  Membantu mengidentifikasi indikasi awal risiko stunting berdasarkan data pertumbuhan anak.
+
+- 📚 **Edukasi Kesehatan dan Gizi**  
+  Menyediakan informasi mengenai pola makan sehat, nutrisi anak, serta langkah pencegahan stunting.
+
+- 📅 **Pengingat Pemeriksaan Berkala**  
+  Membantu orang tua mengingat jadwal pemeriksaan kesehatan dan pemantauan pertumbuhan anak.
+
+Growell bertujuan untuk meningkatkan kesadaran masyarakat terhadap pentingnya pertumbuhan anak yang optimal serta membantu upaya pencegahan stunting sejak dini.
+
+## 👨‍💻 Tim Pengembang
+
+Aplikasi ini dikembangkan oleh **Team Algorithm Ace**:
+
+- **Irfan Nafis Maulana**
+- **Fachrul Rozi**
+- **Abiyyu Aryasena**
+- **Gustira Haryani**
+
+## 🚀 Teknologi yang Digunakan
+
+Project ini dibangun menggunakan:
+
+- **Flutter**
+- **Dart**
+- **Firebase** *(opsional, sesuaikan jika digunakan)*
+
+## 📂 Struktur Project
+
+Project ini merupakan aplikasi Flutter dan dapat dijalankan menggunakan environment Flutter.
+
+### Menjalankan Project
+
+Pastikan Flutter sudah terinstall, lalu jalankan:
+
+```bash
+flutter pub get
+flutter run
